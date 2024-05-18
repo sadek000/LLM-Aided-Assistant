@@ -1,0 +1,1 @@
+export { useATTranslation } from "./useATTranslation";
